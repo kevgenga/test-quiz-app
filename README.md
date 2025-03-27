@@ -3,13 +3,13 @@ Un jeu de quiz interactif avec un score et un chronomètre ! Testez vos connaiss
 
 🔗 [Accéder au site](https://kevgenga.github.io/test-quiz-app/)
 
-## Fonctionnalités
+## 🚀 Technologies utilisées
+- React.js
+- React-Scripts
+- Html / CSS
+
+## 📋 Fonctionnalités
 - Un quiz interactif avec des questions aléatoires.
 - Correction (vrai/faux) en temps réel.
 - Chronomètre pour ajouter du défi.
 - Interface simple et intuitive.
-
-## Technologies utilisées
-- React.js
-- React-Scripts
-- Html / CSS
