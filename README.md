@@ -12,8 +12,7 @@ Un jeu de quiz interactif avec un score et un chronomètre ! Testez vos connaiss
 ## Technologies utilisées
 - React.js
 - React-Scripts
-- Tailwind CSS
-- Web Vitals
+- Html / CSS
 
 ## Installation
 
